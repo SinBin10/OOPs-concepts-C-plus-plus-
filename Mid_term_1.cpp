@@ -10,7 +10,7 @@ class time
     {
         cout<<"Enter the hour : ";
         cin>>hh;
-        cout<<"Enter the minutes : ";
+        cout<<"Enter the minuts : ";
         cin>>mm;
         cout<<"Enter the seconds : ";
         cin>>ss;
